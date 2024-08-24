@@ -11,3 +11,8 @@
 * `git clone https://github.com/Student820/Wordlist-`
 * `cd Wordlist- `
 * `bash '𝑻𝒎 𝒍𝒊𝒔𝒕.sh' `
+
+
+
+## Demo 
+<h2 align="center"> <img src="https://github.com/Student820/Wordlist-/blob/main/dark ᚓTm,.jpg" width="470" /> </h2>
