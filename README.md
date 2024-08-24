@@ -10,5 +10,4 @@
 * `pip install requests`
 * `git clone https://github.com/Student820/Wordlist-`
 * `cd Wordlist- `
-* `bash'𝑻𝒎 𝒍𝒊𝒔𝒕.sh'``
-  
+* `bash '𝑻𝒎 𝒍𝒊𝒔𝒕.sh' `
