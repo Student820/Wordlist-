@@ -15,4 +15,4 @@
 
 
 ## Demo 
-<h2 align="center"> <img src="https://github.com/Student820/Wordlist-/blob/main/dark ᚓTm,.jpg" width="470" /> </h2>
+<h2 align="center"> <img src="https://github.com/Student820/Wordlist-/blob/main/Dark ᚓTm,.jpg" width="470" /> </h2>
