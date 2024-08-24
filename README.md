@@ -4,3 +4,4 @@
 <p align="center"><b>passwd wordlist generate</b <code>Tool</code></p>
 
 
+*`pkg update && pkg upgrade`
